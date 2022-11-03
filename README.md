@@ -3,8 +3,6 @@
 - 🔭 I’m currently Freelancer working on Upwork, Freelancer.. taking chances everywhere.
 - 🌱 I’m currently learning Node.js /Express.js
 
-[![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamalkd&show_icons=true&title_color=FFC312&text_color=feca57&icon_color=e84118&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/oussamalkd)
-
 ### Skills
 
 <p align="left">
@@ -22,6 +20,9 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
 
 </p>
+
+[![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamalkd&show_icons=true&title_color=FFC312&text_color=feca57&icon_color=e84118&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/oussamalkd)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oussamalkd)](https://git.io/streak-stats)
 
