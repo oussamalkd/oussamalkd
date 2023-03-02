@@ -19,6 +19,11 @@
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Nodejs" />
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </p>
 
 [![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamalkd&show_icons=true&title_color=FFC312&text_color=feca57&icon_color=e84118&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/oussamalkd)
