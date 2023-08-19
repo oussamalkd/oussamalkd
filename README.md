@@ -1,29 +1,11 @@
-### Front-end web developer  (VueJs/NuxtJs - Js/Ts) 👋
+### MEVN Fullstack (Vue/Nuxt - Js/Ts) 👋
 
 - 🔭 I’m currently Freelancer working on Upwork, Freelancer.. taking chances everywhere.
-- 🌱 I’m currently learning Node.js /Express.js
 
 ### Skills
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Nodejs" />
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" />
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,nuxtjs,vue,ts,js,html,css,sass,tailwindcss" />
 </p>
 
 [![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamalkd&show_icons=true&title_color=FFC312&text_color=feca57&icon_color=e84118&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/oussamalkd)
