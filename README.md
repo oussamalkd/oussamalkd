@@ -1,6 +1,6 @@
 ### MEVN Fullstack (Vue/Nuxt - Js/Ts) 👋
 
-- 🔭 I’m currently Freelancer working on Upwork, Freelancer.. taking chances everywhere.
+- 🔭 Freelancer... taking chances everywhere.
 
 ### Skills
 
@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me:
 -->
