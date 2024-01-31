@@ -1,4 +1,4 @@
-### MEVN Fullstack (Vue/Nuxt - Js/Ts) 👋
+### MEVN Fullstack 👋
 
 - 🔭 Freelancer... taking chances everywhere.
 
