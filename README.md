@@ -17,7 +17,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=oussamalkd&exclude_days=Sun%2CSat&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oussamalkd&theme=soft-green&hide_border=true&border_radius=10&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
 
