@@ -1,6 +1,7 @@
 ### MEVN Fullstack 👋
 
 - 🔭 Freelancer... taking chances everywhere.
+- 📫 How to reach me: oussamalkd99@gmail.com
 
 ### Skills
 
